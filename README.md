@@ -3,6 +3,7 @@ regional-asa
 
 This script will create extremely accurate network objects based off region.
 
+https://www.ip2location.com/free/visitor-blocker
 
 The script is intended to be run on a Unix host. Copy country.list and regional-asa.sh to a folder on your host. Make the .sh file executable (chmod +x regional-asa.sh). Then run it. Based on your inputs, it will generate a file with a listing of network objects and an object-group that you could then use in an ASA ACL.
 
